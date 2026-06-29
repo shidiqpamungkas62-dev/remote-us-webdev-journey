@@ -1,21 +1,30 @@
 # Remote US Web Developer Journey
 
-This repository documents my 90-day preparation journey to become a remote web developer for international companies.
+## About Me
 
-## Main Focus
+Hi, I am Shidiq.
 
+I am a laravel developer from Indonesia preparing myself for International remote opportunities.
+
+Current Stack
 - Laravel
+- PHP
+- MySQL
+- JavaScript
 - REST API
-- React
-- TypeScript
-- Docker
-- Testing
-- English for Software Engineers
+- React (Learning)
+- Docker (Learning)
 
-## Goal
+Current Progress
 
-To become ready for remote web developer opportunities within 90 days.
+- ✅ Day 1
+- ⏳ Day 2
+- ⏳ Day 3
 
-## Daily Commitment
+Goals
 
-I study mainly at night after work.
+- Become a Laravel Full Stack Developer
+- Improve English
+- Master Docker
+- Learn React
+- Get a Remote Job

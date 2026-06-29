@@ -2,14 +2,12 @@
 
 ## Self Introduction
 
-Hello!
+Hi, My name is Shidiq.
+I am a Laravel Developer from Indonesia.
 
-My name is Shidiq Pamungkas
+I have experience building web application using Laravel, MySQL, JavaScript, and REST APIs.
 
-I am a Laravel developer from Indonesia.
+I want to work remotely from a US company.
 
-I want to become a remote web developer and work with international companies.
+My goal is to improve my coding skills, English communication, and professional portofolio within 90 days.
 
-I am improving my English and software engineering skills every day.
-
-Thank you!
